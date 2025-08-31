@@ -146,7 +146,12 @@
 - **Aug 21, 2025:** Q4 answered - prioritize station strength over transition speed (focus on sled pull, burpee box jump, wall balls)
 - **Aug 21, 2025:** Q5 answered - values strength gains but will defer to coach, wants to do whatever needed for 1:15 goal
 - **Aug 25, 2025:** Added comprehensive context from precise-data.md - sleep, nutrition, training history, logistics, and mental profile
-- **Aug 25, 2025:** Created Week 1 program - conservative foundation phase with 6 training days, emphasis on skill acquisition and movement quality over intensity. Incorporated 90min time constraints, sauna utilization post-intensity, and progressive ramp-up approach. User ready to start Monday Aug 26.
+- **Aug 25, 2025:** Created Week 1 program - conservative foundation phase with 6 training days, emphasis on skill acquisition and movement quality over intensity. Incorporated 90min time constraints, sauna utilization post-intensity, and progressive ramp-up approach. User ready to start Monday Aug 26. Clarified Monday structure: 5-10min transition break between run and strength work.
+- **Aug 26, 2025:** Week 1 Day 2 (Tuesday) - Clarified sled push alternative (weighted lunges/farmer's carries) and confirmed 90s rest between all sets in skills practice day.
+- **Aug 26, 2025:** User questioned Wednesday threshold + lower body design - explained race-specific fatigue simulation logic, offered modification options (10-15min transition break vs keeping as designed). User chose to keep as designed. Noted 7:00/mile pace might be aggressive - suggested starting at 7:10 and adjusting based on feel for consistent effort across intervals. Clarified treadmill vs outdoor - treadmill fine for Week 1 precise pacing, 1% incline recommended.
+- **Sep 1, 2025:** Week 1 completed successfully. Key findings: RPE 5-8 range, Wednesday threshold most challenging (8/10), Mini-Hyrox smooth at 31:20 (8:00/mile pace), threshold splits 7:15/7:14/7:13, high motivation (5/5), good recovery except leg soreness post-Wednesday. Time constraint issue - needs 60-70min sessions vs 75-85min for sauna access. Needs deadlift alternative and sled substitutes still.
+- **Sep 1, 2025:** Created Week 2 program with user feedback incorporated: 60-70min sessions, Bulgarian Split Squats/step-ups replacing deadlifts, heavy farmer's walks for sled push alternative, threshold progression to 7:05-7:10 pace. Extended circuit challenge and slight volume increases while maintaining time efficiency.
+- **Sep 1, 2025:** User questioned farmer's walks as sled push substitute - correctly identified grip vs quad/glute loading mismatch. Recommended weighted walking lunges as better substitute for movement pattern specificity.
 
 ## Week 1 Program Notes
 - **Philosophy:** Conservative introduction, skill acquisition focus
@@ -155,5 +160,18 @@
 - **Sauna Integration:** Post-threshold and post-circuit sessions for VO2 adaptation
 - **Time Management:** All sessions 45-85min to fit 5:30-7:30am window
 
+## Week 1 Results & Adjustments Needed
+- **Successful Elements:** RPE distribution, Mini-Hyrox pacing, movement quality focus
+- **Time Adjustments:** Reduce sessions to 60-70min for sauna access
+- **Exercise Substitutions:** Need deadlift alternative, sled push/pull substitutes
+- **Pacing Calibration:** 7:10-7:15 threshold range worked well, can progress slightly
+
+## Week 2 Program Notes
+- **Philosophy:** Build phase with slight intensity/volume progression
+- **Volume:** ~7 hours, 65% easy/moderate, 35% hard
+- **Key Changes:** BSS/step-ups for deadlifts, farmer's walks for sled push, 60-70min sessions
+- **Progressions:** +1 set upper body, +5 reps wall balls, extended circuit with farmer's carry
+- **Threshold:** 4x1200m @ 7:05-7:10 pace (progression from 3x1600m @ 7:15)
+
 ---
-*Last updated: August 25, 2025*
+*Last updated: September 1, 2025*

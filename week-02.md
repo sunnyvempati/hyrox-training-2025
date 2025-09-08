@@ -78,10 +78,10 @@
 
 **Lower Body Strength:** (20 min)
 1. Goblet squats: 4 sets x 18 reps (+3 from Week 1)
-2. Bulgarian Split Squats: 4 sets x 10 each leg (replaces RDLs)
-3. Walking lunges: 3 sets x 24 steps total (+4 steps)
+2. Single-leg hip thrusts: 4 sets x 12 each leg (different pattern from Tuesday BSS)
+3. Reverse lunges: 3 sets x 24 steps total (different from Tuesday's forward walking lunges)
 4. Single-leg glute bridges: 3 sets x 12 each leg
-5. Single-leg calf raises: 3 sets x 12 each leg
+5. Wall sit: 3 sets x 30s (different muscle emphasis from Tuesday calves)
 
 **Cool-down + Sauna:** 15 min sauna (post-threshold adaptation)
 
@@ -122,7 +122,7 @@
 - 1000m run @ steady pace  
 - 40 wall balls (10 more than Week 1)
 - 1000m run @ steady pace
-- **NEW:** 100m weighted walking lunges
+- **NEW:** 100m heavy farmer's carry
 
 *10 min active rest (easy walk)*
 

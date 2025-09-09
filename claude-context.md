@@ -154,6 +154,9 @@
 - **Sep 1, 2025:** User questioned farmer's walks as sled push substitute - correctly identified grip vs quad/glute loading mismatch. Recommended weighted walking lunges as better substitute for movement pattern specificity. Updated Week 2 MD file with this change.
 - **Sep 1, 2025:** User questioned Tuesday legs → Wednesday threshold sequencing. Explained race-specific fatigue simulation logic and recovery patterns. Offered swap option if too aggressive given Week 1's Wednesday was hardest day (8/10 RPE). User chose to keep as designed, wants everything deliberate and understood the reasoning.
 - **Sep 2, 2025:** User caught multiple programming errors - BSS on Tuesday then BSS again Wednesday, walking lunges both days, and Friday walking lunges again. Also calf raises Tue/Wed consecutive days. Fixed Wednesday BSS→hip thrusts, walking lunges→reverse lunges, Friday walking lunges→farmer's carry, Wed calf raises→wall sit. User rightfully called out quality control failures - implemented systematic exercise audit protocol for future programs.
+- **Sep 8, 2025:** Week 2 completed with disruptions - missed Thursday recovery, skipped Wednesday lower body (rough night with baby), moved Saturday run to Sunday (6mi vs 7mi). Threshold excellent (4x7:04), circuit improvement (31:48), but sleep quality down (3.8/5). Still no sauna access due to time constraints. User concerned about muscle loss from reduced heavy lifting - reassured about similar weekly volume. Wants real-time communication about missed sessions for program adjustments.
+- **Sep 8, 2025:** Created Week 3 with sled introduction and race-pace focus. User flagged potential issue - did Saturday's negative split run today (Sunday), questioned back-to-back race-pace exposure for Monday. Recommended making Monday easy (7:45-8:00/mile) instead of prescribed race-pace work for recovery. Updated Week 3 MD with this change. User clarified 7:45-8:00 is moderate effort, not conversational (Zone 2 closer to 8:45-9:00/mile).
+- **Sep 9, 2025:** Monday completed - 5 miles only, missed upper body due to time constraints. Redistributed Monday's upper body work: 3 exercises added to Tuesday (70min total), enhanced Friday upper body finisher (8min vs 5min). Maintains weekly upper body volume. Added sled alternatives to Tuesday: sled push→weighted walking lunges (6x40m), sled pull→heavy bent-over rows (6x15 reps).
 
 ## Week 1 Program Notes
 - **Philosophy:** Conservative introduction, skill acquisition focus
@@ -175,5 +178,17 @@
 - **Progressions:** +1 set upper body, +5 reps wall balls, extended circuit with farmer's carry
 - **Threshold:** 4x1200m @ 7:05-7:10 pace (progression from 3x1600m @ 7:15)
 
+## Week 2 Results & Week 3 Adaptations
+- **Successful Elements:** Threshold consistency (4x7:04), circuit improvement (31:48)
+- **Challenges:** Sleep disruption (3.8/5), missed sessions due to baby/weather
+- **Real-time Communication:** User will flag disruptions for program adjustments
+
+## Week 3 Program Notes  
+- **Philosophy:** Sled integration + race-pace exposure
+- **Volume:** ~7.5 hours, 60% easy/moderate, 40% hard
+- **Key Changes:** Real sled work 2x/week, race-pace running segments, increased carbs (+25g)
+- **Progressions:** 5x1000m threshold, sub-30min circuit target, 8-mile long run
+- **Session Length:** 55-65min (strict time management)
+
 ---
-*Last updated: September 1, 2025*
+*Last updated: September 8, 2025*

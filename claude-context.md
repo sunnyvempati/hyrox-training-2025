@@ -157,6 +157,8 @@
 - **Sep 8, 2025:** Week 2 completed with disruptions - missed Thursday recovery, skipped Wednesday lower body (rough night with baby), moved Saturday run to Sunday (6mi vs 7mi). Threshold excellent (4x7:04), circuit improvement (31:48), but sleep quality down (3.8/5). Still no sauna access due to time constraints. User concerned about muscle loss from reduced heavy lifting - reassured about similar weekly volume. Wants real-time communication about missed sessions for program adjustments.
 - **Sep 8, 2025:** Created Week 3 with sled introduction and race-pace focus. User flagged potential issue - did Saturday's negative split run today (Sunday), questioned back-to-back race-pace exposure for Monday. Recommended making Monday easy (7:45-8:00/mile) instead of prescribed race-pace work for recovery. Updated Week 3 MD with this change. User clarified 7:45-8:00 is moderate effort, not conversational (Zone 2 closer to 8:45-9:00/mile).
 - **Sep 9, 2025:** Monday completed - 5 miles only, missed upper body due to time constraints. Redistributed Monday's upper body work: 3 exercises added to Tuesday (70min total), enhanced Friday upper body finisher (8min vs 5min). Maintains weekly upper body volume. Added sled alternatives to Tuesday: sled push→weighted walking lunges (6x40m), sled pull→heavy bent-over rows (6x15 reps).
+- **Sep 15, 2025:** Week 3 completed with significant disruptions - sick kid caused missed Wednesday, threshold moved to Thursday (no lifting), Friday circuit only (no upper body), missed Saturday/Sunday entirely. Sled introduction successful (100kg push/75kg pull, good mechanics). Threshold performance excellent (6:46-6:53 vs 7:00-7:05 target). Circuit 31:50 (missed sub-30 target but pace sustainable). Energy/motivation down (3.5/5). User wants muscle groups vs specific exercises, prefers wheeled sled at regular Lifetime. Travel Wed/Thu Week 4.
+- **Sep 15, 2025:** User questioned lack of Zone 2 runs - noted "easy" pace (7:45-8:00/mile) is actually moderate effort, true Zone 2 is 8:45-9:00/mile. Explained Hyrox-specific intensity distribution (60% moderate, 40% hard vs traditional 80% easy, 20% hard) due to race demands, existing aerobic base, and 12-week timeframe. Offered to adjust if user wants more true Zone 2.
 
 ## Week 1 Program Notes
 - **Philosophy:** Conservative introduction, skill acquisition focus
@@ -190,5 +192,18 @@
 - **Progressions:** 5x1000m threshold, sub-30min circuit target, 8-mile long run
 - **Session Length:** 55-65min (strict time management)
 
+## Week 3 Results & Week 4 Adaptations
+- **Breakthrough Performance:** Threshold 6:46-6:53 (15-20s faster than prescribed)
+- **Sled Success:** 100kg push/75kg pull with good mechanics
+- **Challenges:** Energy/motivation down (3.5/5), missed weekend sessions
+- **User Requests:** Muscle groups vs specific exercises, wheeled sled preference
+
+## Week 4 Program Notes
+- **Philosophy:** Aggressive progression based on performance gains
+- **Volume:** ~8 hours, 55% easy/moderate, 45% hard  
+- **Key Changes:** Wheeled sled at regular Lifetime, muscle group choice format, travel flexibility
+- **Aggressive Elements:** 7:15/mile race-pace blocks, 6:45-6:55 threshold, sub-28min circuit target
+- **Travel Integration:** Wed/Thu flexible options (track vs bodyweight alternatives)
+
 ---
-*Last updated: September 8, 2025*
+*Last updated: September 15, 2025*

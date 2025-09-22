@@ -200,10 +200,18 @@
 
 ## Week 4 Program Notes
 - **Philosophy:** Aggressive progression based on performance gains
-- **Volume:** ~8 hours, 55% easy/moderate, 45% hard  
+- **Volume:** ~8 hours, 55% easy/moderate, 45% hard
 - **Key Changes:** Wheeled sled at regular Lifetime, muscle group choice format, travel flexibility
 - **Aggressive Elements:** 7:15/mile race-pace blocks, 6:45-6:55 threshold, sub-28min circuit target
 - **Travel Integration:** Wed/Thu flexible options (track vs bodyweight alternatives)
 
+## Week 4 Results & Week 5 Considerations
+- **Performance Surge:** Threshold 6:23-6:40 (consistently 20-30s faster than prescribed)
+- **Race-Pace Progress:** 7:20-7:22/mile outdoor sustainable vs struggling at 7:30 in Week 3
+- **Recovery Excellent:** Energy/motivation 5/5, training load doubled yet feeling strong
+- **Circuit Gap:** 34:12 vs sub-28 target (need 7:00-7:10/mile consistency for goal)
+- **Equipment Win:** New Adidas Evo SL shoes, wheeled sled at regular Lifetime working well
+- **Resistance Training:** Skipped sessions due to time constraints - need solution
+
 ---
-*Last updated: September 15, 2025*
+*Last updated: September 22, 2025*

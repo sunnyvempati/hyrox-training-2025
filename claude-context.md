@@ -213,5 +213,13 @@
 - **Equipment Win:** New Adidas Evo SL shoes, wheeled sled at regular Lifetime working well
 - **Resistance Training:** Skipped sessions due to time constraints - need solution
 
+## Week 5 Results & Reality Check
+- **Threshold Power:** 6:09-6:24 (still 15-20s faster than prescribed, almost puked on last rep)
+- **Circuit Time:** 36:18 vs 31-32 target (5+ minutes off despite moving constantly at 7:09/mile)
+- **Fatigue Accumulation:** Shin/achilles/calf soreness, Saturday tempo suffered (7:50 vs 7:10-7:20 target)
+- **Skills Excellence:** 4:05-4:12 circuit rounds, sled 250lbs both directions
+- **Schedule Preference:** Friday Hyrox sim → Saturday rest → Sunday long run works best
+- **Goal Reality:** Current ~36-37min circuit vs needed ~26-28min for 1:15 goal = major gap
+
 ---
-*Last updated: September 22, 2025*
+*Last updated: September 29, 2025*

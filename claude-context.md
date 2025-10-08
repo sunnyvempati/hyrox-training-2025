@@ -219,7 +219,20 @@
 - **Fatigue Accumulation:** Shin/achilles/calf soreness, Saturday tempo suffered (7:50 vs 7:10-7:20 target)
 - **Skills Excellence:** 4:05-4:12 circuit rounds, sled 250lbs both directions
 - **Schedule Preference:** Friday Hyrox sim → Saturday rest → Sunday long run works best
-- **Goal Reality:** Current ~36-37min circuit vs needed ~26-28min for 1:15 goal = major gap
+- **Goal Reality:** Station-specific time projection needed vs pro-rata calculation error
+
+## Week 6 & Illness Disruption
+- **Week 6 Incomplete:** Completed Mon-Sat workouts but no Sunday long run, no tracking data
+- **Stomach Bug:** 3 days lost to illness (exact dates unclear), still lingering internal effects
+- **Recovery Status:** Body feels recovered after lots of sleep, ready to restart training
+- **Week 7 Start:** Wednesday mid-week restart with conservative progression
+
+## Week 7 Program Notes
+- **Philosophy:** Post-illness smart restart, conservative progression
+- **Volume:** ~5.5 hours (reduced), 5 days (Wed-Sun)
+- **Intensity:** 80% easy/moderate, 20% hard
+- **Key Focus:** Avoid relapse, rebuild confidence, assess readiness for full training
+- **Modified Circuit:** 25-28min target (4x800m runs + stations), conservative test
 
 ---
-*Last updated: September 29, 2025*
+*Last updated: October 8, 2025*

@@ -225,14 +225,34 @@
 - **Week 6 Incomplete:** Completed Mon-Sat workouts but no Sunday long run, no tracking data
 - **Stomach Bug:** 3 days lost to illness (exact dates unclear), still lingering internal effects
 - **Recovery Status:** Body feels recovered after lots of sleep, ready to restart training
-- **Week 7 Start:** Wednesday mid-week restart with conservative progression
 
-## Week 7 Program Notes
-- **Philosophy:** Post-illness smart restart, conservative progression
-- **Volume:** ~5.5 hours (reduced), 5 days (Wed-Sun)
-- **Intensity:** 80% easy/moderate, 20% hard
-- **Key Focus:** Avoid relapse, rebuild confidence, assess readiness for full training
-- **Modified Circuit:** 25-28min target (4x800m runs + stations), conservative test
+## Week 7 Results & Full Recovery
+- **Oct 14, 2025:** Week 7 successful recovery week - crushed Hyrox sim and long run, hit all prescribed times
+- **Complete Recovery:** Feeling great, not sore, highly motivated
+- **Monday Week 8:** 2mi easy + full upper body completed
+- **Ready for Peak:** Full intensity return approved for Week 8
+
+## Week 8 Program Notes
+- **Philosophy:** Aggressive return to peak training, 5 weeks to race day
+- **Volume:** ~8.5 hours (peak volume return), intensity 50/50 easy-moderate/hard
+- **Key Elements:** Full Hyrox simulation (sub-75min target), 8x600m @ 6:10-6:20, 10mi Sunday
+- **Critical Test:** Friday full simulation is key indicator for 1:15 goal feasibility
+
+## Week 8 Results (October 14-20, 2025)
+- **Friday Simulation:** 1:03 (63 min) WITHOUT SLEDS - projected ~73-75 min with sleds (ON TARGET!)
+- **Running:** 7:30/mile pace (needs 7:00-7:15 for goal)
+- **HR:** 180 bpm on last runs (max effort reached)
+- **Stations:** Endurance struggled, wall balls extremely difficult at end
+- **Fueling:** Suboptimal (treated as normal workout vs race simulation)
+- **Recovery:** Very sore for multiple days
+
+## Week 9 Current Status (October 21-27, 2025)
+- **Sunday Oct 20:** ✓ 5 miles easy
+- **Monday Oct 21:** ✓ Full upper body
+- **Tuesday Oct 22:** Rest day
+- **Wednesday Oct 23 (TODAY):** Ready for training, body feels good
+- **Focus:** Build station endurance while improving run speed
+- **Timeline:** 4.5 weeks to race - one more build week before taper
 
 ---
-*Last updated: October 8, 2025*
+*Last updated: October 23, 2025*

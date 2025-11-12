@@ -246,13 +246,33 @@
 - **Fueling:** Suboptimal (treated as normal workout vs race simulation)
 - **Recovery:** Very sore for multiple days
 
-## Week 9 Current Status (October 21-27, 2025)
-- **Sunday Oct 20:** ✓ 5 miles easy
-- **Monday Oct 21:** ✓ Full upper body
-- **Tuesday Oct 22:** Rest day
-- **Wednesday Oct 23 (TODAY):** Ready for training, body feels good
-- **Focus:** Build station endurance while improving run speed
-- **Timeline:** 4.5 weeks to race - one more build week before taper
+## Week 9 Results (October 21-27, 2025)
+- **Mini-Hyrox sim:** Completed, felt "not bad at all" (good progress!)
+- **9-mile run:** ✓ Completed (different day than planned but done)
+- **Training consistency:** Good week overall
+
+## Week 10 Results (October 28 - November 3, 2025)
+- **Tuesday Oct 29:** ✓ Upper body lift
+- **Wednesday Oct 30:** Rest
+- **Thursday Oct 31:** ✓ 60-min Hyrox workout
+- **Saturday Nov 2:** ✓ Mock Hyrox 56:11 (no sleds, missing 2 runs) - CRUSHED IT!
+  - Projected full time: ~75-78 minutes (ON TARGET for 1:15!)
+  - Quick transitions, felt good during and after
+- **Sunday Nov 3:** ✓ Rest day
+
+## Week 11 Results (November 4-10, 2025)
+- **Tuesday:** 4x1200m @ 6:45 pace (crushed it, felt smooth)
+- **Sunday Nov 10:** ✅ FULL HYROX SIMULATION: **1:11:42** (3+ min under goal!)
+  - Projected with roxzone: ~1:14-1:15
+  - Goal ACHIEVED in simulation!
+
+## Week 12 Current Status (November 11-17, 2025) - London Travel Week
+- **Monday Nov 11 (TODAY):** Recovery from simulation, planning week
+- **Wed Nov 13:** Travel to London (6pm departure)
+- **Thu Nov 14:** Arrive London 10am
+- **Sun Nov 17:** Return from London (noon flight)
+- **Timeline:** 11 days to race - deep taper, maintain fitness
+- **Race Day:** November 22 (Friday)
 
 ---
-*Last updated: October 23, 2025*
+*Last updated: November 11, 2025*
